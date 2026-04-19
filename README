@@ -3,16 +3,13 @@
 
 
 
-
-```
 apt install build-essential make cmake libcurl openssl -y
 
-```
 
 
-```
+
 git clone https://github.com/cyber99aams/thc-hydra.git
 cd thc-hydra
 ./configure
 
-```
+
